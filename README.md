@@ -1,7 +1,7 @@
-# 🧠 NETSENTRY-AI: Intelligent Network Threat Detector & Packet Analyzer
+# 🧠 NetPulse: Intelligent Network Threat Detector & Packet Analyzer
 
 ### 🚀 Overview
-NETGUARD-AI is a hybrid cybersecurity tool that captures live network packets, extracts features, and detects malicious behavior using ML-based models. It’s designed for real-time anomaly detection and visualization.
+NetPulse is a hybrid cybersecurity tool that captures live network packets, extracts features, and detects malicious behavior using ML-based models. It’s designed for real-time anomaly detection and visualization.
 
 ---
 
