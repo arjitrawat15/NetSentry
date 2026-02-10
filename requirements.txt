@@ -11,3 +11,4 @@ fastapi
 uvicorn
 plotly
 requests
+python
