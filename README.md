@@ -1,7 +1,7 @@
-# 🧠 NetPulse: Intelligent Network Threat Detector & Packet Analyzer
+# 🧠 NetSentry: Intelligent Network Threat Detector & Packet Analyzer
 
 ### 🚀 Overview
-NetPulse is a hybrid cybersecurity tool that captures live network packets, extracts features, and detects malicious behavior using ML-based models. It’s designed for real-time anomaly detection and visualization.
+NetSentry is a hybrid cybersecurity tool that captures live network packets, extracts features, and detects malicious behavior using ML-based models. It’s designed for real-time anomaly detection and visualization.
 
 ---
 
@@ -12,7 +12,7 @@ NetPulse is a hybrid cybersecurity tool that captures live network packets, extr
 - Real-time alerts and logging  
 
 ```
-NetGuardAI/
+NetSentry/
 ├── 📊 dashboard/
 │   └── app_working.py          # Main dashboard (CURRENTLY RUNNING)
 │
